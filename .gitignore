@@ -1,0 +1,18 @@
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+/gradle
+*.iml
+gradlew*
+
+#image file
+*.jpg
+*.jpeg
+*.png
+!/src/
+
+#log file
+*.log
